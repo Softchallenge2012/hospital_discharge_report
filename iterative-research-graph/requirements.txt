@@ -1,0 +1,11 @@
+langgraph
+langchain-google-genai
+langchain-core
+flask
+flask-cors
+python-dotenv
+langchain-community
+langchain-openai
+pandas
+numpy
+tabulate                                       

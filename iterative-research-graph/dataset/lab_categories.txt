@@ -1,0 +1,45 @@
+Name 
+DOB 
+Provider 
+Med Primary
+Prescription
+Primary Care Provider
+OB/GYN
+LEEKER'S PHARMACY (ERX)
+BP
+Ht
+Wt
+BMI
+Date
+Source
+Vaccine Type
+Route
+Site
+NDC
+Date on VIS
+VIS Given
+Vaccinator
+* Pregnant - Onset
+Are you currently employed 
+Occupation
+Alcohol intake
+Caffeine intake
+Tobacco Smoking Status
+Marital status
+Most Recent Tobacco Use Screening
+Date of Last Pap Smear
+Date of LMP
+Sexually Active 
+Sexual Problems 
+STIs/STDs
+TOTAL
+FULL
+PRE
+ECTOPICS
+MULTIPLE
+LIVING
+Pain Scale
+Comments
+Allergies/Hayfever
+Note to Imaging Facility
+LAB

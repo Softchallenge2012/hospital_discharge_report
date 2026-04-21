@@ -1,0 +1,6 @@
+{
+  "name": "Iterative Research Graph",
+  "description": "A LangGraph-powered research assistant that iteratively researches, reports, and audits content until it passes quality checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
